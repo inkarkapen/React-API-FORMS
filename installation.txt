@@ -1,0 +1,7 @@
+
+//install react app
+npm install -g create-react-app
+
+//to start the application
+cd versium-people
+npm start
